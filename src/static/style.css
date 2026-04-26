@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+    color: black;
+}
+
+button{
+    padding: 3px;
+    cursor: pointer;
+}
+
+input{
+    margin-right: 20px;
+}
+
+#LightDarkButton{
+    float: right;
+}
