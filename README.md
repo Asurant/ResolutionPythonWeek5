@@ -24,4 +24,3 @@ You can access the API documentation and use it at:
 | DELETE | /flashcards/{flashcard_id} | Deletes A Flashcard Based On ID |
 
 ![image](image.png)
-![alt text](image.png)
